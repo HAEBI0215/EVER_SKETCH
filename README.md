@@ -17,7 +17,12 @@ Unauthorized copying, distribution, or leakage of this game is strictly prohibit
 All resources used in this game (including music, illustrations, and source files) are licensed with permission from hebi. and 3Y CORPORATION. (예정)
 
 플레이 해주셔서 감사합니다.<br>
-Thank you for playing.
+Thank you for playing.<br>
+
+본 프로젝트의 인게임 에디터 및 소스 코드는<br>
+개인 포트폴리오 보호 및 리소스 보호를 위해 Private Repository로 관리하고 있습니다.<br>
+The in-game editor and source code of this project are maintained in a private repository<br>
+to protect personal portfolio assets and project resources.
 
 <details>
   <summary>개발자의 한마디</summary>
