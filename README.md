@@ -20,9 +20,9 @@ All resources used in this game (including music, illustrations, and source file
 Thank you for playing.<br>
 
 본 프로젝트의 인게임 에디터 및 소스 코드는<br>
-개인 포트폴리오 보호 및 리소스 보호를 위해 Private Repository로 관리하고 있습니다.<br>
+리소스 보호를 위해 Private Repository로 관리하고 있습니다.<br>
 The in-game editor and source code of this project are maintained in a private repository<br>
-to protect personal portfolio assets and project resources.
+to protect project resources.
 
 <details>
   <summary>개발자의 한마디</summary>
