@@ -1,5 +1,7 @@
 # EVER-SKETCH
 
+### 현재 활발히 제작중에 있으며 추후 2막(HumanEclipse) 제작 예정 계획 또한 있습니다<br>
+### The project is currently in active development, with future plans to develop a second chapter titled HumanEclipse.<br>
 
 헤비님의 팬게임 제작 리포지토리입니다.<br>
 This is hebi.’s fan game development repository.
